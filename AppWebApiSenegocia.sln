@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWebApiSenegocia", "AppWebApiSenegocia\AppWebApiSenegocia.csproj", "{A8727C46-7E9A-4B13-843F-15196CC69BB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWebApiSenegocia.AccesoDatos", "AppWebApiSenegocia.AccesoDatos\AppWebApiSenegocia.AccesoDatos.csproj", "{DE71E44F-F91E-4D6E-AECD-C0F95A64EC6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A8727C46-7E9A-4B13-843F-15196CC69BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8727C46-7E9A-4B13-843F-15196CC69BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8727C46-7E9A-4B13-843F-15196CC69BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE71E44F-F91E-4D6E-AECD-C0F95A64EC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE71E44F-F91E-4D6E-AECD-C0F95A64EC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE71E44F-F91E-4D6E-AECD-C0F95A64EC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE71E44F-F91E-4D6E-AECD-C0F95A64EC6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
